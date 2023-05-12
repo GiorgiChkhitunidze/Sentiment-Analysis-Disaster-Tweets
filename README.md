@@ -3,7 +3,7 @@
 <p> This repository is devoted to my first sentiment analysis project using BERT model as a text encoder.</p>
 <p><b>Have to share trained model weights file through Dropbox as its size is more than 1 GB: <i>https://www.dropbox.com/s/xwzg1qxkxz0rz3c/model_20.pt?dl=0</i></b></p>
 
-##### The notebook consists of:
+### The notebook consists of:
 - Exploratory data analysis (EDA)
 - Preprocessing data
 - Setting up Dataset and DataLoader (which also tokenizes text with bert tokenizer)
