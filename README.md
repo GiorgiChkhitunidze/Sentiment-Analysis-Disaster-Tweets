@@ -10,4 +10,4 @@
 - Visualization of results
 
 
-## Acknowledgements to these authors:
+## Acknowledgements:
