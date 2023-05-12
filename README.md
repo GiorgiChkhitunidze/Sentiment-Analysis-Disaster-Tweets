@@ -12,7 +12,7 @@
 
 
 ## Acknowledgements to these authors:
-Thanks to this author. Took some insights from them: https://www.kaggle.com/code/marcovasquez/basic-nlp-with-tensorflow-and-wordcloud
-Big thanks to this author for a handy set of abbreviations: https://www.kaggle.com/code/sandhyakrishnan02/nlp-with-disaster-tweets-using-lstm#9.-Text-Preprocessing
-Great dictionary of contractions. Thanks to: https://www.kaggle.com/code/tuckerarrants/bert-with-huggingface-transformers/notebook#0.-Preprocessing
-Thanks to https://medium.com/geekculture/text-preprocessing-how-to-handle-emoji-emoticon-641bbfa6e9e7 for emoji removal code
+- Thanks to this author. Took some insights from them: https://www.kaggle.com/code/marcovasquez/basic-nlp-with-tensorflow-and-wordcloud
+- Big thanks to this author for a handy set of abbreviations: https://www.kaggle.com/code/sandhyakrishnan02/nlp-with-disaster-tweets-using-lstm#9.-Text-Preprocessing
+- Great dictionary of contractions. Thanks to: https://www.kaggle.com/code/tuckerarrants/bert-with-huggingface-transformers/notebook#0.-Preprocessing
+- Thanks to https://medium.com/geekculture/text-preprocessing-how-to-handle-emoji-emoticon-641bbfa6e9e7 for emoji removal code
