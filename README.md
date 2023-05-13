@@ -1,6 +1,8 @@
 # Sentiment Analysis using Kaggle Disaster Tweets dataset
 
-<p> This repository is my first sentiment analysis project.</p>
+<p> This repository is my first sentiment analysis project. For this project I used Tweets dataset from NLP competition on Kaggle: <i>https://www.kaggle.com/competitions/nlp-getting-started/data</i>. I used BERT language processing model to tokenize text and built a small NN model to train it. Eventually got 81% accuracy on test set.</p>
+
+
 <p><b>The <i>main</i> notebook consists of:</b></p>
 
 - Exploratory data analysis (EDA)
@@ -10,8 +12,8 @@
 - Final Prediction and Visualization of results
 
 
-<p><b>To view main notebook without any rendering problem you can refer to this link: <i>https://nbviewer.org/github/GiorgiChkhitunidze/Sentiment-Analysis-With-Disaster-Tweets/blob/main/main.ipynb</i></b></p>
-<p>Have to share trained model weights file through Dropbox as its size is more than 1 GB: <i>https://www.dropbox.com/s/xwzg1qxkxz0rz3c/model_20.pt?dl=0</i></p>
+<p><b>To view the <i>main</i> notebook without any rendering problem you can refer to this link: <i>https://nbviewer.org/github/GiorgiChkhitunidze/Sentiment-Analysis-With-Disaster-Tweets/blob/main/main.ipynb</i></b></p>
+<p>Had to share trained model weights through Dropbox as its size is more than 1 GB: <i>https://www.dropbox.com/s/xwzg1qxkxz0rz3c/model_20.pt?dl=0</i></p>
 
 
 
