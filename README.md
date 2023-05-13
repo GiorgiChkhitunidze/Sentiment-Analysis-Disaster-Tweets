@@ -17,8 +17,8 @@
 
 
 
-## Acknowledgements to these authors:
-- Took some insights about cleaning tweets from this <a href="https://www.kaggle.com/code/marcovasquez/basic-nlp-with-tensorflow-and-wordcloud">kaggle notebook</a>. 
+## Acknowledgements & References:
+- Took some great insights about cleaning tweets from this <a href="https://www.kaggle.com/code/marcovasquez/basic-nlp-with-tensorflow-and-wordcloud">kaggle notebook</a>. 
 - Big thanks to this author for a handy set of <a href="https://www.kaggle.com/code/sandhyakrishnan02/nlp-with-disaster-tweets-using-lstm#9.-Text-Preprocessing">abbreviations</a>.
 - Another great dictionary of <a href="https://www.kaggle.com/code/tuckerarrants/bert-with-huggingface-transformers/notebook#0.-Preprocessing">contractions</a>.
 - Thanks to this author from <i>medium.com</i> for <a href="https://medium.com/geekculture/text-preprocessing-how-to-handle-emoji-emoticon-641bbfa6e9e7">emoji removal code</a>.
