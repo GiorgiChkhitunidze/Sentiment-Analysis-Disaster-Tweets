@@ -1,14 +1,18 @@
 # Sentiment Analysis using Kaggle Disaster Tweets dataset
 
-<p> This repository is devoted to my first sentiment analysis project using BERT model as a text encoder.</p>
-<p><b>Have to share trained model weights file through Dropbox as its size is more than 1 GB: <i>https://www.dropbox.com/s/xwzg1qxkxz0rz3c/model_20.pt?dl=0</i></b></p>
+<p> This repository is my first sentiment analysis project.</p>
+<p><b>The <i>main</i> notebook consists of:</b></p>
 
-### The notebook consists of:
 - Exploratory data analysis (EDA)
 - Preprocessing data
 - Setting up Dataset and DataLoader (which also tokenizes text with bert tokenizer)
 - Building neural model and training
 - Final Prediction and Visualization of results
+
+
+<p><b>To view main notebook without any rendering problem you can refer to this link: <i>https://nbviewer.org/github/GiorgiChkhitunidze/Sentiment-Analysis-With-Disaster-Tweets/blob/main/main.ipynb</i></b></p>
+<p>Have to share trained model weights file through Dropbox as its size is more than 1 GB: <i>https://www.dropbox.com/s/xwzg1qxkxz0rz3c/model_20.pt?dl=0</i></p>
+
 
 
 ## Acknowledgements to these authors:
