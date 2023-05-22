@@ -13,7 +13,6 @@
 
 
 <p><b>To view the <i>main</i> notebook without any rendering issues follow this <i><a href="https://nbviewer.org/github/GiorgiChkhitunidze/Sentiment-Analysis-With-Disaster-Tweets/blob/main/main.ipynb">link</a></i></b></p>
-<p>Had to share the trained model weights through Dropbox as its size is more than 1 GB. You can Follow the <i><a href="https://www.dropbox.com/s/xwzg1qxkxz0rz3c/model_20.pt?dl=0">link</a></i> if you want to dowload.</p>
 
 
 
