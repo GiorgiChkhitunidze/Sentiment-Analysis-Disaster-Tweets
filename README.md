@@ -12,7 +12,7 @@
 - Final Prediction and Visualization of results
 
 
-<p><b>To view the <i>main</i> notebook without any rendering issues follow this <i><a href="https://nbviewer.org/github/GiorgiChkhitunidze/Sentiment-Analysis-With-Disaster-Tweets/blob/main/main.ipynb">link</a></i></b></p>
+<p><b>To view the <i>main.ipynb</i> notebook without any rendering issues follow this <i><a href="https://nbviewer.org/github/GiorgiChkhitunidze/Sentiment-Analysis-With-Disaster-Tweets/blob/main/main.ipynb">link</a></i></b></p>
 
 
 
